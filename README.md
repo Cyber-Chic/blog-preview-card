@@ -30,7 +30,7 @@ Users must be able to:
 
 ### Screenshot
 
-![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
+![Screenshot 2024-11-13 at 18-57-37 Frontend Mentor Blog preview card](https://github.com/user-attachments/assets/7a303163-8f99-46c5-a3e5-809c1d88f0cc)
 
 ### Links
 
