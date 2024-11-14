@@ -45,7 +45,7 @@ This project contains my blog preview card web design replication.  It is the fo
 
 ### What I learned
 
-I learned how to use the :hover selector to swap images, add image borders & how to use basic Grid properties to style my project. I also reinforced my knowledge of how to format text, images & background elements.
+I learned how to use the box-shadow CSS property to add a partial shadow to my blog card.  I also reinforced my knowledge of grid & how to format HTML elements.
 
 ### Useful resources
 
