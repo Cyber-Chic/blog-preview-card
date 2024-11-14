@@ -16,7 +16,7 @@ Frontend Mentor requires the use of front end skills to create websites and solv
 
 
 ## Overview
-This project contains my blog preview card web design replication.  It is the fourth challenge that I completed on Frontend Mentor.
+This project contains my blog preview card web design replication.  It is the fifth challenge that I completed on Frontend Mentor.
 
 ### The challenge
 
