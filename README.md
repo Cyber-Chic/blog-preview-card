@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog Preview Card Solution
 
-This is a solution to the [Blog Preview Card challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) hosted on Frontend Mentor.
+This is a solution to the [Blog Preview Card challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) hosted on Frontend Mentor.
 Frontend Mentor requires the use of front end skills to create websites and solve real world coding challenges.
 
 ## Table of contents
@@ -20,12 +20,8 @@ This project contains my blog preview card web design replication.  It is the fo
 
 ### The challenge
 
-To create a blog preview card and have it look as close to the original design as possible.  
-
-Users must be able to: 
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+- To create a blog preview card and have it look as close to the original design as possible.  
+- Users must be able to: See hover states for interactive elements.
 
 
 ### Screenshot
@@ -55,7 +51,6 @@ I learned how to use the :hover selector to swap images, add image borders & how
 
 - [Prettier · Opinionated Code Formatter](https://prettier.io/) - This helped me format my code.
 - [StackBlitz](https://stackblitz.com/) - This is where I created my project.
-- [YouTube Grid Tutorial - Kevin Powell](https://www.youtube.com/watch?v=_lEkD8IGkwo) - This excellent tutorial helped me to understand the basics of Grid.
 
 ## Author
 
