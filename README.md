@@ -60,6 +60,18 @@ I learned how to use the box-shadow CSS property to add a partial shadow to my b
 - YouTube - [Angela Moore Featured Video](https://www.youtube.com/watch?v=3yS19NcRQt8&ab_channel=TBrandStudio)
 
 # Sponsors
-> **SIGNAL NOTE:** This project is a digital subsystem of the [Moore Archive](https://emaze.me/tma). 
-> Sponsorships support my full creative ecosystem—from public-facing research to physical art drops.
-> [**SUPPORT THE JOURNEY**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE) | **STATUS: 🟢 NOMINAL**
+### [ 🛰️ PROJECT SUBSYSTEM ]
+**Part of the [Moore Archive](https://emaze.me/tma) Creative Ecosystem.**  
+*Bridging the gap between digital code and physical reality.*
+
+**EXPLORE THE NETWORK:**
+*   **🔭 RESEARCH:** [NASA Exoplanet Watch Participation & Data](https://github.com/Cyber-Chic/nasa)
+*   **🧪 ARCHIVE:** [The Moore Archive | Physical Artifact Hunt](https://emaze.me/tma)
+*   **💻 CODE:** [View My Full Repository Catalog](https://github.com/Cyber-Chic)
+
+**[ ☕ MISSION SUSTENANCE ]**
+Sponsorships support my full creative ecosystem—from public-facing research and citizen science to the physical art drops of The Moore Archive.  
+[**➡️ SUPPORT THE JOURNEY VIA PAYPAL**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE)
+
+---
+**ANGELA N. MOORE // SIGNAL STATUS: 🟢 NOMINAL**
