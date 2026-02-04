@@ -59,6 +59,7 @@ I learned how to use the box-shadow CSS property to add a partial shadow to my b
 - Github - [@Cyber-Chic](https://github.com/Cyber-Chic)
 - YouTube - [Angela Moore Featured Video](https://www.youtube.com/watch?v=3yS19NcRQt8&ab_channel=TBrandStudio)
 
- # Sponsors
-- Thank you for reading about my coding journey!😁
-- You can sponsor me if you like my work & want to show support.💖
+# Sponsors
+> **SIGNAL NOTE:** This project is a digital subsystem of the [Moore Archive](https://emaze.me/tma). 
+> Sponsorships support my full creative ecosystem—from public-facing research to physical art drops.
+> [**SUPPORT THE JOURNEY**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE) | **STATUS: 🟢 NOMINAL**
