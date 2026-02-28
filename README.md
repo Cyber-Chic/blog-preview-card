@@ -1,4 +1,4 @@
-# 💻 Frontend Mentor: Blog Preview Card // THE MOORE SIGNAL
+# 💻 Frontend Mentor: Blog Preview // THE MOORE SIGNAL
 
 This is a solution to the [Blog Preview Card challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) hosted on Frontend Mentor.
 Frontend Mentor requires the use of front end skills to create websites and solve real world coding challenges.
